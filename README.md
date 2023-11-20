@@ -75,6 +75,4 @@ Follow these instructions to get the Blood Bank App up and running on your local
 - **Authentication**: JSON Web Tokens (JWT).
 - **Deployment**: Heroku for hosting the application.
 
-## Contact
 
-For any inquiries or support, please contact me at bhardwajdeepak0052@gmail.com
